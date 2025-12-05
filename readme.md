@@ -10,3 +10,9 @@ To install all dependecies and start application:
 ```zsh
 bash setup.sh
 ```
+
+
+todo:
+over under sample mail classifier set -> target 350?
+remove force label
+
