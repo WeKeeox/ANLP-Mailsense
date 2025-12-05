@@ -1,1 +1,6 @@
 spam_Emails_data.csv
+
+--pycache__/
+*.pyc
+
+*.pkl
